@@ -1,0 +1,30 @@
+{
+  "name": "thgen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhawansolanki/thgen.git"
+  },
+  "keywords": [
+    "Thumbnail",
+    "Generator",
+    "thgen",
+    "thumbnailgenerator",
+    "nodejs thumbnailgenerator"
+  ],
+  "author": "Dhawan Solanki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhawansolanki/thgen/issues"
+  },
+  "homepage": "https://github.com/dhawansolanki/thgen#readme",
+  "dependencies": {
+    "puppeteer": "^22.10.0",
+    "uuid": "^9.0.1"
+  }
+}
