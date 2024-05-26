@@ -41,6 +41,10 @@ try {
 
 ```
 
+## Result
+
+![image](https://github.com/dhawansolanki/thgen/assets/91565429/a99a5da1-52f0-478b-a4b7-25de55454fd5)
+
 
 ## Future Improvements
 
